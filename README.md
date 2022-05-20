@@ -1,6 +1,9 @@
 # 05-Third-Party-APIs-Work-Day-Scheduler
 
-![Alt text](/relative/path/to/Screen Shot 2022-05-20 at 2.54.39 PM.png?raw=true "Screenshot of the schedule maker")
+
+![image](https://user-images.githubusercontent.com/102135325/169618325-6d8c0f9d-001b-479d-8bed-a0ce7e68d4c2.png)
+
+
 
 ## Project Description
 This is workday schedule is perfect for writting down meetings a user has to attend, lunch hour, work hour, whatever the user would need a scheduler for within business hours. Events saved will be remained saved regardless of how many times the user refreshes the page and/or close out of the page. As long as the user still has the link to the scheduler, then they'll be able to use it freely. 
