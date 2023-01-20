@@ -1,4 +1,4 @@
-# 05-Third-Party-APIs-Work-Day-Scheduler
+# Day Planner
 
 
 ![image](https://user-images.githubusercontent.com/102135325/169618325-6d8c0f9d-001b-479d-8bed-a0ce7e68d4c2.png)
